@@ -2,9 +2,9 @@
 
 <img align="right" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<h1 align="center">"Welcome To Karim's World!"</h1>
+<h1 align="center">"Welcome to Karim's World!"</h1>
 
-<h3 align="center">I am An Electrical and computer engineering student💻</h3>
+<h3 align="center">I am An Electrical and Computer Engineering student💻</h3>
 
 
 <img align="right" alt="Coding" width="1000" src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif">
