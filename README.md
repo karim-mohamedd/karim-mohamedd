@@ -4,7 +4,7 @@
 
 <h1 align="center">"Welcome to Karim's World!"</h1>
 
-<h3 align="center">I am An Electrical and Computer Engineering student💻</h3>
+<h3 align="center">I am An Electrical and Computer Engineering Student 💻</h3>
 
 
 <img align="right" alt="Coding" width="1000" src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif">
