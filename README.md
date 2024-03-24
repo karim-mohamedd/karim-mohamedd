@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://x.com/KarimMo61914681?t=XWE1TPVX3bPtwrGRXLjDXw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karim-mohamedd" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100014428158426&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karim-mohamedd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/karim-elwaraky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim-mohamedd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karim-elwaraky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim-mohamedd" height="30" width="40" /></a>
 <a href="https://https://wa.me/+201011261561?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="karim-mohamedd" height="30" width="40" /></a>
 <a href="https://discord.gg/karimelwaraky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karim-mohamedd" height="30" width="40" /></a>
 </p>
