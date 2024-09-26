@@ -23,8 +23,6 @@
 - 💬 **Ask me about anything tech related, I will be happy to help.**
 
 - 📫 How to reach me **karimelwaraky50@gmail.com**
-<img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
