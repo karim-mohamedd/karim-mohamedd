@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **karimelwaraky50@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://x.com/KarimMo61914681?t=XWE1TPVX3bPtwrGRXLjDXw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karim-mohamedd" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100014428158426&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karim-mohamedd" height="30" width="40" /></a>
